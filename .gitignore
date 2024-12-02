@@ -1,0 +1,5 @@
+*.exe
+lexer/lex.yy.c
+
+
+# .gitignore
