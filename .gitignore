@@ -1,5 +1,7 @@
 *.exe
-lexer/lex.yy.c
+*.yy.c
+*.tab.h
+*.tab.c
 
 
-# .gitignore
+.gitignore
